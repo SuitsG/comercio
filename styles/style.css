@@ -2,6 +2,26 @@
     --primario: #000C18;
     --secundario: #033047;
     --terciario: #24A6C4;
+    --blanco: #e9ecec;
 }
-
-
+h1 {
+    color: var(--secundario);
+    padding: 2rem;
+    font-family: var(--fuentePrimaria);
+    text-align: center;
+}
+nav{
+    color: var(--primario);
+    padding: 1.5rem;
+    background-color: greenyellow;
+    font-family: var(--fuentePrimaria);
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    color: var(--primario);
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
