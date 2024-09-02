@@ -1,1 +1,3 @@
 Herramientas de git y otras
+Herramienta de espiral
+https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections
